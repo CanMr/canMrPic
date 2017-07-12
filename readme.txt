@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 我是中国人我爱自己的祖国
 上面的话是真的
+我添加了一行
